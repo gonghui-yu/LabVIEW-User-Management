@@ -12,7 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Userinfo" Type="Folder">
-			<Item Name="[Data] Userinfo.lvclass" Type="LVClass" URL="../[Data] Userinfo/[Data] Userinfo/[Data] Userinfo.lvclass"/>
+			<Item Name="[Data] Abstruct Userinfo.lvclass" Type="LVClass" URL="../[Data] Userinfo/[Data] Abstruct Userinfo/[Data] Abstruct Userinfo.lvclass"/>
 			<Item Name="[Data] Userinfo Binary.lvclass" Type="LVClass" URL="../[Data] Userinfo/[Data] Userinfo Binary/[Data] Userinfo Binary.lvclass"/>
 		</Item>
 		<Item Name="[C] User Management.lvlib" Type="Library" URL="../[C] User Management/[C] User Management.lvlib"/>
@@ -58,6 +58,8 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 				<Item Name="AES.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/YU/YU-Encrypt/AES/AES.lvclass"/>
 				<Item Name="UTF-8 to Text.vi" Type="VI" URL="/&lt;vilib&gt;/YU/YU-String/UTF-8 to Text.vi"/>
+				<Item Name="Time String(s).vi" Type="VI" URL="/&lt;vilib&gt;/YU/YU-Time/Method/Time String(s).vi"/>
+				<Item Name="Text to UTF-8.vi" Type="VI" URL="/&lt;vilib&gt;/YU/YU-String/Text to UTF-8.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/Dialog/lvconfig.llb/LV Config Read String.vi"/>

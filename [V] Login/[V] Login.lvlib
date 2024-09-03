@@ -9,9 +9,11 @@
 		<Item Name="Event Expand User Msg.lvclass" Type="LVClass" URL="../[V] Login Messages/Event Expand User Msg/Event Expand User Msg.lvclass"/>
 		<Item Name="Event Select User Msg.lvclass" Type="LVClass" URL="../[V] Login Messages/Event Select User Msg/Event Select User Msg.lvclass"/>
 		<Item Name="Event Login Msg.lvclass" Type="LVClass" URL="../[V] Login Messages/Event Login Msg/Event Login Msg.lvclass"/>
+		<Item Name="Login Fail Msg.lvclass" Type="LVClass" URL="../[V] Login Messages/Login Fail Msg/Login Fail Msg.lvclass"/>
 	</Item>
 	<Item Name="Messages for Caller" Type="Folder">
 		<Item Name="Login Request Msg.lvclass" Type="LVClass" URL="../INF of [V] Login Messages/Login Request Msg/Login Request Msg.lvclass"/>
+		<Item Name="Login Rmb User Msg.lvclass" Type="LVClass" URL="../INF of [V] Login Messages/Login Rmb User Msg/Login Rmb User Msg.lvclass"/>
 	</Item>
 	<Item Name="INF of [V] Login.lvclass" Type="LVClass" URL="../INF of [V] Login/INF of [V] Login.lvclass"/>
 	<Item Name="[V] Login.lvclass" Type="LVClass" URL="../[V] Login/[V] Login.lvclass"/>
