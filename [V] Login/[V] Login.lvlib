@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Event Contract User Msg.lvclass" Type="LVClass" URL="../[V] Login Messages/Event Contract User Msg/Event Contract User Msg.lvclass"/>
 		<Item Name="Event Expand User Msg.lvclass" Type="LVClass" URL="../[V] Login Messages/Event Expand User Msg/Event Expand User Msg.lvclass"/>
 		<Item Name="Event Select User Msg.lvclass" Type="LVClass" URL="../[V] Login Messages/Event Select User Msg/Event Select User Msg.lvclass"/>
 	</Item>
