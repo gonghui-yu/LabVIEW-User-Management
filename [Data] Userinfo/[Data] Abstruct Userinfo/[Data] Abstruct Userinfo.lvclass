@@ -6,8 +6,19 @@
 	<Property Name="NI.LVClass.ClassNameVisibleInProbe" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.IsInterface" Type="Bool">true</Property>
 	<Property Name="NI.LVClass.LowestCompatibleVersion" Type="Str">1.0.0.0</Property>
+	<Item Name="Control" Type="Folder">
+		<Item Name="user info.ctl" Type="VI" URL="../Control/user info.ctl">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"$!!!!!1!\!0%!!!!!!!!!!C"&lt;2'&amp;U96UA17*T&gt;(*V9X1A68.F=GFO:G]O&lt;(:D&lt;'&amp;T=QF$&lt;WZU=G^M)$%!#!!!!!%!!!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">5242880</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
+		</Item>
+	</Item>
 	<Item Name="Method" Type="Folder">
-		<Item Name="is Pwd Match.vi" Type="VI" URL="../is Pwd Match.vi">
+		<Item Name="is Pwd Match.vi" Type="VI" URL="../Method/is Pwd Match.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;`!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!R!)1:N982D;$]!!%J!=!!?!!!C)&amp;N%982B83""9H.U=H6D&gt;#"6=W6S;7ZG&lt;SZM&gt;G.M98.T!!!=7U2B&gt;'&amp;&gt;)%&amp;C=X2S&gt;7.U)&amp;6T:8*J&lt;G:P)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#("B=X.X&lt;X*E!!!31$$`````#(6T:8*O97VF!!")1(!!(A!!)C"&lt;2'&amp;U96UA17*T&gt;(*V9X1A68.F=GFO:G]O&lt;(:D&lt;'&amp;T=Q!!'VN%982B83""9H.U=H6D&gt;#"6=W6S;7ZG&lt;S"J&lt;A"5!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!)!!E!#A)!!(A!!!U)!!!!!!!!#1!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!B!!!!)1!!!!E!!!!!!"!!M!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
@@ -33,6 +44,15 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
+		</Item>
+		<Item Name="New User.vi" Type="VI" URL="../Method/New User.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)\!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!C)&amp;N%982B83""9H.U=H6D&gt;#"6=W6S;7ZG&lt;SZM&gt;G.M98.T!!!=7U2B&gt;'&amp;&gt;)%&amp;C=X2S&gt;7.U)&amp;6T:8*J&lt;G:P)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!31$$`````#(6T:8*O97VF!!!31$$`````#("B=X.X&lt;X*E!!!01!%!#7&amp;V&gt;'BP=GFU?1!51$$`````#G2F='&amp;S&gt;'VF&lt;H1!!!Z!-0````]%='^T&gt;!!!%%!Q`````Q:S:7VB=GM!!"2!-0````],9X*F982F)(2J&lt;75!'%!Q`````Q^M98.U)'RP:WFO)(2J&lt;75!7Q$RYQ!LW!!!!!)A7U2B&gt;'&amp;&gt;)%&amp;C=X2S&gt;7.U)&amp;6T:8*J&lt;G:P,GRW9WRB=X-.&gt;8.F=C"J&lt;G:P,G.U&lt;!!E1&amp;!!#!!(!!A!#1!+!!M!$!!.!!Y*&gt;8.F=C"J&lt;G:P!%B!=!!?!!!C)&amp;N%982B83""9H.U=H6D&gt;#"6=W6S;7ZG&lt;SZM&gt;G.M98.T!!!&lt;7U2B&gt;'&amp;&gt;)%&amp;C=X2S&gt;7.U)&amp;6T:8*J&lt;G:P)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!$Q!1!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!"!!!!#1!!!!!!%!%1!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
 		</Item>
 	</Item>
 </LVClass>
